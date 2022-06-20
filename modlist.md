@@ -26,11 +26,12 @@
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4) [Functionality] 
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [QoL - Gameplay]
 - [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr) (by Noobanidus) [QoL - Gameplay]
-- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [QoL - Gameplay]
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Functionality]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [QoL - Gameplay]
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [QoL - Gameplay]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
+- [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome) (by ???) [Functionality]
 
 ### Client-side mods (these mods are optional, remove/replace at will)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (by squeek502) [QoL - HUD]
