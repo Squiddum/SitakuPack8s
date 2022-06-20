@@ -56,7 +56,6 @@
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) (by QueenOfMissiles) [Performance]
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) (by SpaceWalkerRS) [Performance]
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) (by Jaredlll08) [Performance]
-- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw) [Performance]
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire) [Performance]
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii) [Performance]
 - [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire) [Performance]
