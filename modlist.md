@@ -69,7 +69,6 @@
 
 ### Config mods (Serverside stuff)
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
-- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth) [QoL - Settings]
 - [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
 - [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
@@ -77,15 +76,11 @@
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) (by DenisD3D_) [Discord]
 
 ### Library mods (used by other mods)
-- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Dependency - ???]
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii) [Dependency - Quark]
-- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) (by BlayTheNinth) [Dependency - Default Options]
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Dependency - Alex's Mobs]
-- [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge) (by shedaniel) [Dependency - ???]
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Dependency - Respawning Shulkers]
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt) [Dependency - Integrated Dungeons]
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu) [Dependency - Create]
-- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder) [Dependency - ???]
 - [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Dependency - Tetra]
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii) [Dependency - Alex's Mobs et al.]
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Dependency - Fast Furnace & Workbench]
