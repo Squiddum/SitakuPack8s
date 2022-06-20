@@ -70,7 +70,6 @@
 - [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
 	- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
-	- [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [Addon - KubeJS]
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) (by DenisD3D_) [Discord]
 
 ### Library mods (used by other mods)
