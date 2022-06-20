@@ -61,7 +61,6 @@
 - [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire) [Performance]
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811) [Performance]
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el) [Performance]
-- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) (by Asek3) [Addon - Rubidium]
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) (by Asek3) [Performance]
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (by Spottedstar) [Performance]
@@ -70,8 +69,8 @@
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
-- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
-- [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [Addon - KubeJS]
+	- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
+	- [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [Addon - KubeJS]
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) (by DenisD3D_) [Discord]
 
 ### Library mods (used by other mods)
