@@ -10,7 +10,6 @@
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Mobs - Pets]
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) (by CraisinLord) [Structures]
-- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn) (by Starmute) [Terrain/Worldgen]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Multiple features]
 - [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Multiple features] **
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
@@ -63,11 +62,10 @@
 - [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire) [Performance]
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811) [Performance]
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el) [Performance]
-- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) [Addon - Rubidium]
-- [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge) [Performance]
-- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) [Performance]
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) (by Asek3) [Addon - Rubidium]
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) (by Asek3) [Performance]
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
-- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) [Performance]
+- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (by Spottedstar) [Performance]
 
 ### Config mods (Serverside stuff)
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
@@ -76,7 +74,7 @@
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
 - [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
 - [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [Addon - KubeJS]
-- [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) [Discord]
+- [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) (by DenisD3D_) [Discord]
 
 ### Library mods (used by other mods)
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Dependency - ???]
@@ -90,7 +88,7 @@
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder) [Dependency - ???]
 - [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Dependency - Tetra]
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii) [Dependency - Alex's Mobs et al.]
-- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Dependency - ???]
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Dependency - Fast Furnace & Workbench]
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Dependency - KubeJS]
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Dependency - Supplementaries]
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
