@@ -66,10 +66,9 @@
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (by Spottedstar) [Performance]
 
 ### Config mods (Serverside stuff)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (by LatvianModder) [Recipes]
+	- [CreateTweaker](https://www.curseforge.com/minecraft/mc-mods/createtweaker) (by LatvianModder) [Addon - CraftTweaker]
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
-- [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
-- [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
-	- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) (by DenisD3D_) [Discord]
 
 ### Library mods (used by other mods)
