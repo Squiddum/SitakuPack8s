@@ -5,13 +5,13 @@
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Terrain/Worldgen]
 - [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) [Addon - Tetra]
-- [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation]
+- [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation] *
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Mobs - Pets]
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) [Structures]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Multiple features]
-- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Multiple features]
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Multiple features] **
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
 - [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage]
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Multiple features]
@@ -23,16 +23,17 @@
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) (by way2muchnoise) [Fun]
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (by Tschipp) [Functionality]
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4) [Functionality] 
-- [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [QoL]
-- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [QoL]
+- [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [QoL - Gameplay]
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr) (by Noobanidus) [QoL - Gameplay]
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [QoL - Gameplay]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
-- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [QoL]
-- [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [QoL]
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [QoL - Gameplay]
+- [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [QoL - Gameplay]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
 
 ### Client-side mods (these mods are optional, remove/replace at will)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (by squeek502) [QoL - HUD]
-- [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) (by Kreezxii) [QoL]
+- [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) (by Kreezxii) [QoL - Sound]
 - [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) (by FionaTheMortal) [Performance]
 - [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo) [Aesthetics]
 - [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) (by Fuzs_) [QoL - Settings]
@@ -63,7 +64,7 @@
 - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) [Addon - Rubidium]
 - [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge) [Performance]
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) [Performance]
-- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
+- [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) [Performance]
 
 ### Config mods (Serverside stuff)
@@ -100,3 +101,6 @@
 - [Created Simple Storage Network](https://www.curseforge.com/minecraft/texture-packs/created-storage-network) [Create & Simple Storage Network]
 - [Oliver Remund Painting Pack](https://www.curseforge.com/minecraft/texture-packs/oliver-remund-painting-pack) [Paintings++]
 - [Sitaku Paintings Pack](https://github.com/AppleMangoOrange/SitakuPack) [Paintings++]
+
+## * - Recipe(s) will be modified via a datapack
+## ** - Some features may be enabled/disabled via configs
