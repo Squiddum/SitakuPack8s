@@ -4,18 +4,19 @@
 ### Big mods (adds major/many features)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Terrain/Worldgen]
-- [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) [Addon - Tetra]
+- [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) (by mickelus) [Addon - Tetra]
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation] *
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Mobs - Pets]
-- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) [Structures]
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) (by ???) [Structures]
+- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn) (by Starmute) [Terrain/Worldgen]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Multiple features]
 - [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Multiple features] **
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
 - [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage]
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Multiple features]
-- [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith/files/3696607) [Terrain/Worldgen]
+- [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith/files/3696607) (by Starmute) [Terrain/Worldgen]
 - [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (by mickelus) [Gear]
 - [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Structures]
 
@@ -92,9 +93,6 @@
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Dependency - KubeJS]
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Dependency - Supplementaries]
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
-
-### Datapacks
-- [Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) [Terrain/Worldgen]
 
 ### Resource Packs
 - [BrewingCanvas - Potion Guide](https://www.curseforge.com/minecraft/texture-packs/brewingcanvas-potion-guide) [Paintings++]
