@@ -9,7 +9,7 @@
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Mobs - Pets]
-- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) (by ???) [Structures]
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) (by CraisinLord) [Structures]
 - [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn) (by Starmute) [Terrain/Worldgen]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Multiple features]
 - [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Multiple features] **
@@ -31,7 +31,7 @@
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [QoL - Gameplay]
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [QoL - Gameplay]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
-- [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome) (by ???) [Functionality]
+- [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome) (by bl4ckscor3) [Functionality]
 
 ### Client-side mods (these mods are optional, remove/replace at will)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (by squeek502) [QoL - HUD]
