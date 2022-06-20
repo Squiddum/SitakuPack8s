@@ -100,6 +100,5 @@
 - [Oliver Remund Painting Pack](https://www.curseforge.com/minecraft/texture-packs/oliver-remund-painting-pack) [Paintings++]
 - [Sitaku Paintings Pack](https://github.com/AppleMangoOrange/SitakuPack) [Paintings++]
 
-### Footnotes
-* Recipe(s) will be modified via a datapack
-** Some features may be enabled/disabled via configs
+### * Recipe(s) will be modified via a datapack
+### ** Some features may be enabled/disabled via configs
