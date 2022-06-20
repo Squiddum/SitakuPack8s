@@ -1,9 +1,10 @@
 # Sitaku 8<sup>TH</sup> Survival: THE OFFICIAL MODLIST
-## Mods below are categorised based on what they do
+## Mods below are categorised based on how important they are
 
 ### Big mods (adds major/many features)
-- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Terrain/Worldgen]
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Terrain/Worldgen]
+- [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) [Addon - Tetra]
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation]
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
@@ -29,25 +30,10 @@
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [QoL]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
 
-### Performance mods
-- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) (by QueenOfMissiles) [Performance]
-- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) (by SpaceWalkerRS) [Performance]
-- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) (by FionaTheMortal) [Performance]
-- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) (by Jaredlll08) [Performance]
-- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw) [Performance]
-- [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire) [Performance]
-- [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii) [Performance]
-- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire) [Performance]
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811) [Performance]
-- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el) [Performance]
-- [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge) [Performance]
-- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) [Performance]
-- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
-- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) [Performance]
-
 ### Client-side mods (these mods are optional, remove/replace at will)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (by squeek502) [QoL - HUD]
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) (by Kreezxii) [QoL]
+- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) (by FionaTheMortal) [Performance]
 - [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo) [Aesthetics]
 - [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) (by Fuzs_) [QoL - Settings]
 - [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) (by Socolio) [Aesthetics]
@@ -64,46 +50,53 @@
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge) [QoL - Crash Logs]
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20) [QoL - GUI]
 
+### Performance mods
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) (by QueenOfMissiles) [Performance]
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) (by SpaceWalkerRS) [Performance]
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) (by Jaredlll08) [Performance]
+- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw) [Performance]
+- [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire) [Performance]
+- [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii) [Performance]
+- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire) [Performance]
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811) [Performance]
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el) [Performance]
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) [Addon - Rubidium]
+- [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge) [Performance]
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) [Performance]
+- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
+- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) [Performance]
+
 ### Config mods (Serverside stuff)
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth) [QoL - Settings]
 - [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
+- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
+- [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [Addon - KubeJS]
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) [Discord]
 
 ### Library mods (used by other mods)
-- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel)
-- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii)
-- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) (by BlayTheNinth)
-- [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Alex's Mobs]
-- [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge) (by shedaniel)
-- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum)
-- [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt)
-- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu) [Create]
-- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder)
-- [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Tetra]
-- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii)
-- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Quark]
-- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder)
-- [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar)
-- [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Valhelsia Structures]
-- [YUNG's API(Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-api) [YUNG's Mods]
-
-
-### Add-ons
-- [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) [Tetra]
-- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [KubeJS, Create]
-- [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [KubeJS, Minecraft]
-- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) [Rubidium]
-
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Dependency - ???]
+- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii) [Dependency - Quark]
+- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) (by BlayTheNinth) [Dependency - Default Options]
+- [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Dependency - Alex's Mobs]
+- [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge) (by shedaniel) [Dependency - ???]
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Dependency - Respawning Shulkers]
+- [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt) [Dependency - Integrated Dungeons]
+- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu) [Dependency - Create]
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder) [Dependency - ???]
+- [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Dependency - Tetra]
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii) [Dependency - Alex's Mobs et al.]
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Dependency - ???]
+- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Dependency - KubeJS]
+- [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Dependency - Supplementaries]
+- [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
 
 ### Datapacks
-- [Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) [The End, Terrain]
-- [Repurposed Structures - Better Strongholds Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack) [Compatibility]
-
+- [Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) [Terrain/Worldgen]
 
 ### Resource Packs
 - [BrewingCanvas - Potion Guide](https://www.curseforge.com/minecraft/texture-packs/brewingcanvas-potion-guide) [Paintings++]
-- [Created Simple Storage Network](https://www.curseforge.com/minecraft/texture-packs/created-storage-network) [Create, Simple Storage Network]
+- [Created Simple Storage Network](https://www.curseforge.com/minecraft/texture-packs/created-storage-network) [Create & Simple Storage Network]
 - [Oliver Remund Painting Pack](https://www.curseforge.com/minecraft/texture-packs/oliver-remund-painting-pack) [Paintings++]
 - [Sitaku Paintings Pack](https://github.com/AppleMangoOrange/SitakuPack) [Paintings++]
