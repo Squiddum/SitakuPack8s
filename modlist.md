@@ -8,10 +8,10 @@
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Mobs - Pets]
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) (by vectorwing) [Food]
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) (by CraisinLord) [Structures]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Multiple features]
 	- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Addon - Quark] **
-- [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures] **
 - [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage]
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Multiple features]
 - [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith/files/3696607) (by Starmute) [Terrain/Worldgen]
