@@ -20,7 +20,7 @@
 	- [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) (by mickelus) [Addon - Tetra]
 - [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Structures]
 
-### Small mods (adds small/few features)
+### Small mods (adds minor features)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) (by way2muchnoise) [Fun]
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (by Tschipp) [Functionality]
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4) [Functionality] 
@@ -84,12 +84,6 @@
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Dependency - KubeJS]
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Dependency - Supplementaries]
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
-
-### Resource Packs
-- [BrewingCanvas - Potion Guide](https://www.curseforge.com/minecraft/texture-packs/brewingcanvas-potion-guide) [Paintings++]
-- [Created Simple Storage Network](https://www.curseforge.com/minecraft/texture-packs/created-storage-network) [Create & Simple Storage Network]
-- [Oliver Remund Painting Pack](https://www.curseforge.com/minecraft/texture-packs/oliver-remund-painting-pack) [Paintings++]
-- [Sitaku Paintings Pack](https://github.com/AppleMangoOrange/SitakuPack) [Paintings++]
 
 ### * Recipe(s) will be modified via a datapack
 ### ** Some features may be enabled/disabled via configs
