@@ -64,6 +64,7 @@
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811) [Performance]
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el) [Performance]
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) (by Asek3) [Performance]
+	- [Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) (by TeamDeusVult) [Addon - Rubidium]
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (by Spottedstar) [Performance]
 
