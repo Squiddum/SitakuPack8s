@@ -4,7 +4,6 @@
 ### Big mods (adds major/many features)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Terrain/Worldgen]
-- [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation] *
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Mobs - Pets]
@@ -25,6 +24,7 @@
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (by Tschipp) [Functionality]
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4) [Functionality] 
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [QoL - Gameplay]
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) (by Chaosyr) [Functionality] *
 - [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr) (by Noobanidus) [QoL - Gameplay]
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Functionality]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
