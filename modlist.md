@@ -13,8 +13,8 @@
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) (by CraisinLord) [Structures]
 - [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses) (by Insane96MCP) [Mobs - Bosses]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Multiple features]
-	- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Addon - Quark] **
-- [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures] **
+	- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Addon - Quark]
+- [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
 - [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage] *
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Multiple features]
 - [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith/files/3696607) (by Starmute) [Terrain/Worldgen]
@@ -93,4 +93,3 @@
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
 
 ### * Recipe(s) will be modified via a datapack
-### ** Some features may be enabled/disabled via configs
