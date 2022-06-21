@@ -51,6 +51,7 @@
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [QoL - Map]
 - [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco) [Performance]
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR) [QoL - Settings]
+- [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog) (by Tommeh2) [Performance]
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge) [QoL - Crash Logs]
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20) [QoL - GUI]
 
