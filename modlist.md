@@ -4,12 +4,14 @@
 ### Big mods (adds major/many features)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Terrain/Worldgen]
+- [Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm) (by mcl_ender) [Mobs - Bosses]
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation] *
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Mobs - Pets]
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) (by vectorwing) [Food]
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) (by CraisinLord) [Structures]
+- [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses) (by Insane96MCP) [Mobs - Bosses]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Multiple features]
 	- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Addon - Quark] **
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures] **
@@ -70,20 +72,23 @@
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (by Spottedstar) [Performance]
 
 ### Config mods (Serverside stuff)
-- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (by LatvianModder) [Recipes]
-	- [CreateTweaker](https://www.curseforge.com/minecraft/mc-mods/createtweaker) (by LatvianModder) [Addon - CraftTweaker]
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
+- [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
+	- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) (by DenisD3D_) [Discord]
 
 ### Library mods (used by other mods)
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Dependency - KubeJS]
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii) [Dependency - Quark]
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Dependency - Alex's Mobs]
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Dependency - Respawning Shulkers]
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt) [Dependency - Integrated Dungeons]
-- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu) [Dependency - Create]
+- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by Insane96MCP) [Dependency - Progressive Bosses]
+- [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib) (by mickelus) [Dependency - Tetra]
 - [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Dependency - Tetra]
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii) [Dependency - Alex's Mobs et al.]
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Dependency - Fast Furnace & Workbench]
+- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Dependency - KubeJS]
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Dependency - Supplementaries]
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
 
