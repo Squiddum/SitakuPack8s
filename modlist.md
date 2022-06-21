@@ -81,7 +81,6 @@
 - [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Dependency - Tetra]
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii) [Dependency - Alex's Mobs et al.]
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Dependency - Fast Furnace & Workbench]
-- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Dependency - KubeJS]
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Dependency - Supplementaries]
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
 
