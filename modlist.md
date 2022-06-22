@@ -71,13 +71,12 @@
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (by Spottedstar) [Performance]
 
 ### Config mods (Serverside stuff)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (by Jaredlll08) [Recipes]
+	- [CreateTweaker](https://www.curseforge.com/minecraft/mc-mods/createtweaker) (by Jaredlll08) [Addon - CraftTweaker]
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
-- [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
-	- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Addon - KubeJS]
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) (by DenisD3D_) [Discord]
 
 ### Library mods (used by other mods)
-- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Dependency - KubeJS]
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii) [Dependency - Quark]
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Dependency - Alex's Mobs]
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Dependency - Villager Names]
@@ -87,7 +86,6 @@
 - [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Dependency - Tetra]
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii) [Dependency - Alex's Mobs et al.]
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Dependency - Fast Furnace & Workbench]
-- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Dependency - KubeJS]
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Dependency - Supplementaries]
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Dependency - Valhelsia Structures]
 
