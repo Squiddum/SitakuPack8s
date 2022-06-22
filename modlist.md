@@ -32,7 +32,6 @@
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Functionality]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [QoL - Gameplay]
-- [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [QoL - Gameplay]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
 - [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome) (by bl4ckscor3) [Functionality]
 
@@ -81,7 +80,6 @@
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Dependency - KubeJS]
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii) [Dependency - Quark]
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Dependency - Alex's Mobs]
-- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Dependency - Respawning Shulkers]
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt) [Dependency - Integrated Dungeons]
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by Insane96MCP) [Dependency - Progressive Bosses]
 - [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib) (by mickelus) [Dependency - Tetra]
