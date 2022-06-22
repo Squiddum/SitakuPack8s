@@ -80,6 +80,7 @@
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Dependency - KubeJS]
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii) [Dependency - Quark]
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Dependency - Alex's Mobs]
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Dependency - Villager Names]
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt) [Dependency - Integrated Dungeons]
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by Insane96MCP) [Dependency - Progressive Bosses]
 - [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib) (by mickelus) [Dependency - Tetra]
