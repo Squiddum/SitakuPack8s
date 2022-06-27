@@ -4,7 +4,7 @@
 ### Big mods (adds major/many features)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Terrain/Worldgen]
-- [Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm) (by mcl_ender) [Mobs - Bosses]
+- [Brutal Bosses - Dungeon Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon) (by someaddon) [Mobs - Bosses]
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation] *
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Automation]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
