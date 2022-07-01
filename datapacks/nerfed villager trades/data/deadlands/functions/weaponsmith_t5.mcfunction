@@ -1,0 +1,2 @@
+data modify entity @s Offers.Recipes[6] set value {maxUses: 3, buyB: {id: "minecraft:air", Count: 1b}, buy: {id: "minecraft:emerald", Count: 32b}, sell: {id: "minecraft:iron_axe", Count: 1b, tag: {Damage: 0, Enchantments:[{id:"minecraft:sharpness",lvl:5s},{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:vanishing_curse",lvl:1s}]}}, xp: 30, uses: 0, priceMultiplier: 0.2f, specialPrice: 0, demand: 0, rewardExp: 1b}
+tag @s add t5_nerfed

@@ -1,0 +1,5 @@
+cities_nether
+cities_overworld
+ruined_portals_end
+shipwrecks_nether(nether_brick)
+strongholds_nether

@@ -1,0 +1,3 @@
+data modify entity @s Offers.Recipes[0] set value {maxUses: 16, buyB: {id: "minecraft:air", Count: 1b}, buy: {id: "minecraft:paper", Count: 24b}, sell: {id: "minecraft:emerald", Count: 1b}, xp: 2, uses: 0, priceMultiplier: 0.05f, specialPrice: 0, demand: 0, rewardExp: 1b}
+data modify entity @s Offers.Recipes[1] set value {maxUses: 12, buyB: {id: "minecraft:air", Count: 1b}, buy: {id: "minecraft:emerald", Count: 9b}, sell: {id: "minecraft:bookshelf", Count: 1b}, xp: 1, uses: 0, priceMultiplier: 0.05f, specialPrice: 0, demand: 0, rewardExp: 1b}
+tag @s add t1_nerfed
